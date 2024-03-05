@@ -1,0 +1,1 @@
+"# Hotel_Management_System_JavaFx"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/KwameGilbert/Hotel_Management_System_JavaFx.gitgit push -u origin main
